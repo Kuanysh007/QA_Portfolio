@@ -68,7 +68,7 @@
 <table border="0">
   <tr>
     <td width="350">
-      <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1903080034#gid=1903080034"><img src="https://img.shields.io/badge/Тест--план-📝-white?style=for-the-badge&labelColor=34A853"></a>
+      <a href="https://docs.google.com/spreadsheets/d/11WVyuIsASnFQMjgracN7hergZ9umDw_E/edit?usp=share_link&ouid=117945946105893616242&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Тест--план-📝-white?style=for-the-badge&labelColor=34A853"></a>
       <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1569426916#gid=1569426916"><img src="https://img.shields.io/badge/Чек--листы-📋-white?style=for-the-badge&labelColor=4285F4"></a>
       <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1422030096#gid=1422030096"><img src="https://img.shields.io/badge/Тест--кейсы-🧪-white?style=for-the-badge&labelColor=FBBC05"></a>
     </td>
