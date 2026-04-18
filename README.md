@@ -34,6 +34,15 @@
   
   <tr>
     <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" />
+    </td>
+    <td>
+      <b>JavaScript:</b> Использую базовый синтаксис языка для автоматизации проверок. Пишу скрипты (Pre-request/Tests) в <b>Postman</b> для обработки переменных, парсинга JSON и автоматизации тестов. Понимаю логику работы JS-скриптов на фронтенде.
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="SQL" />
     </td>
     <td>
