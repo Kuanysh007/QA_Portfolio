@@ -1,4 +1,4 @@
-# QA Portfolio — Kuanysh
+# QA Engineer | Portfolio — Kuanysh
 
 ## 📌 About Me
 Junior QA Engineer. Performed manual testing of web applications.
