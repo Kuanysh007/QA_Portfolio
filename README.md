@@ -158,7 +158,7 @@
       <details>
         <summary>🖼 <b>Смотреть скриншоты (SQL / Postman)</b></summary>
         <p align="center">
-          <img src="<img width="537"height="430" alt="Image" src="https://github.com/user-attachments/assets/7d054293-94ba-47f3-84b8-adf62fec4f42" />" width="45%" alt="SQL Result"> 
+          <img src="ССЫЛКА_НА_POSTMAN_СКРИН" width="45%" alt="Postman Tests">
           <img src="ССЫЛКА_НА_POSTMAN_СКРИН" width="45%" alt="Postman Tests">
           <br>
           <i>Примеры выполнения запросов в pgAdmin и тестов в Postman</i>
@@ -177,3 +177,25 @@
     </td>
   </tr>
 </table>
+
+
+
+<tr>
+    <td width="350">
+      <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1934963380#gid=1934963380"><img src="https://img.shields.io/badge/SQL_Queries-🗄-white?style=for-the-badge&labelColor=336791"></a>
+      <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1273909160#gid=1273909160"><img src="https://img.shields.io/badge/API_Testing-🚀-white?style=for-the-badge&labelColor=FF6C37"></a>
+    </td>
+    <td>
+      <b>Бэкенд и БД:</b> Проверил API эндпоинты через Postman и подтвердил корректность данных через SQL-запросы.
+      <br><br>
+      <details>
+        <summary>🖼 <b>Смотреть скриншот работы в PostgreSQL</b></summary>
+        <p align="center">
+          <br>
+          <img src="https://github.com/user-attachments/assets/7d054293-94ba-47f3-84b8-adf62fec4f42" width="100%" alt="SQL Proof">
+          <br>
+          <i>Результат верификации данных в базе PostgreSQL</i>
+        </p>
+      </details>
+    </td>
+  </tr>
