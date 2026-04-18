@@ -216,6 +216,32 @@
   </tr>
 </table>
 
+<tr>
+    <td width="350" valign="top">
+      <a href="https://github.com/Kuanysh007/QA_Portfolio/tree/main/docker-api-project">
+        <img src="https://img.shields.io/badge/Docker_Infrastructure-🐳-blue?style=for-the-badge">
+      </a>
+      <br><br>
+      <a href="ТВОЯ_ССЫЛКА_НА_ОТЧЕТ_ПО_ЭТОМУ_ПРОЕКТУ">
+        <img src="https://img.shields.io/badge/API_Test_Design-📝-orange?style=for-the-badge">
+      </a>
+    </td>
+    <td>
+      <b>Fullstack Testing (Docker + SQL + API):</b> Тестирование комплексного приложения, развернутого через Docker контейнеры.
+      <br>• <b>Инфраструктура:</b> Разворачивание среды (App, DB, Adminer) с помощью Docker Compose.
+      <br>• <b>API Testing:</b> Тестирование эндпоинтов через Swagger (OpenAPI) и Postman.
+      <br>• <b>Test Design:</b> Применение техник (граничные значения, эквивалентные классы) для валидации данных в БД.
+      <br><br>
+      <details>
+        <summary>🖼 <b>Смотреть артефакты (Docker & Swagger)</b></summary>
+        <p align="center">
+          <br>
+          <img src="ССЫЛКА_НА_СКРИН_DOCKER_И_SWAGGER" width="100%">
+        </p>
+      </details>
+    </td>
+  </tr>
+  
 ---
 
 ### 🎯 Ключевые достижения в проекте:
