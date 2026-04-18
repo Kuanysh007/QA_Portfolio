@@ -133,3 +133,14 @@
     </p>
   </details>
 </td>
+
+<table border="0">
+  <tr>
+    <td><img src="ССЫЛКА_1" width="250"><br align="center"><i>Запрос в БД</i></td>
+    <td><img src="ССЫЛКА_2" width="250"><br align="center"><i>Результат выборки</i></td>
+  </tr>
+  <tr>
+    <td><img src="ССЫЛКА_3" width="250"><br align="center"><i>Сложный JOIN</i></td>
+    <td><img src="ССЫЛКА_4" width="250"><br align="center"><i>Схема таблицы</i></td>
+  </tr>
+</table>
