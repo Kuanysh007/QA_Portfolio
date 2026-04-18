@@ -19,7 +19,7 @@ Web Testing: Провожу функциональные проверки инт
 
 ### 🛠 Мой технический стек:
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) - **API Testing:** Тестирую бэкенд (GET, POST, PUT, DELETE), проверяю статус-коды и структуру JSON. Нашел баг с опечаткой "exist" в ответах сервера.
 * **API Testing:** Тестирую бэкенд (GET, POST, PUT, DELETE), проверяю статус-коды и структуру JSON. Нашел баг с опечаткой "exist" в ответах сервера.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
