@@ -5,7 +5,7 @@
 # Привет! Я — QA-инженер 🚀
 
 <p align="left">
-  Я — начинающий QA-инженер, который любит разбираться в том, как устроены программы «под капотом». Мой интерес к качеству IT-продуктов вырос из фундаментального технического образования (<b>Магистр технических наук</b>) и желания делать цифровые сервисы удобнее и надежнее. Я верю, что хороший тестировщик — это исследователь, который не просто нажимает на кнопки, а понимает архитектуру приложения. В работе я ценю логичный подход, порядок в документации и глубокое погружение в техническую часть.
+  Я начинающий QA Engineer, который любит разбираться в том, как устроены программы "под капотом". Мой интерес к качеству IT-продуктов вырос из фундаментального технического образования (<b>Магистр технических наук</b>) и желания делать цифровые сервисы удобнее и надежнее. Я верю, что хороший тестировщик — это исследователь, который не просто нажимает на кнопки, а понимает архитектуру приложения. В работе я ценю логичный подход, порядок в документации и глубокое погружение в техническую часть.
 </p>
 
 ---
@@ -87,3 +87,49 @@
 
 ### 📫 Как со мной связаться:
 [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](твой_linkedin) [ ![Telegram](https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white) ](твой_телеграм)
+
+
+<br>
+
+## 🚀 Портфолио проектов
+
+### 📂 Проект №1: Комплексный аудит e-commerce платформы Demoblaze.com
+> **Статус:** Завершен (Full Cycle QA)  
+> **Описание:** Это мой основной кейс, в котором я реализовал полный цикл тестирования: от разработки стратегии и анализа требований до финальной верификации данных в базе данных.
+
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1903080034#gid=1903080034">
+        <img src="https://img.shields.io/badge/Тест--план-📝-white?style=for-the-badge&labelColor=34A853" alt="Test Plan">
+      </a>
+      <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1569426916#gid=1569426916">
+        <img src="https://img.shields.io/badge/Чек--листы-📋-white?style=for-the-badge&labelColor=4285F4" alt="Checklists">
+      </a>
+      <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1422030096#gid=1422030096">
+        <img src="https://img.shields.io/badge/Тест--кейсы-🧪-white?style=for-the-badge&labelColor=FBBC05" alt="Test Cases">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1934963380#gid=1934963380">
+        <img src="https://img.shields.io/badge/SQL_Queries-🗄-white?style=for-the-badge&labelColor=336791" alt="SQL">
+      </a>
+      <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1273909160#gid=1273909160">
+        <img src="https://img.shields.io/badge/API_Testing-🚀-white?style=for-the-badge&labelColor=FF6C37" alt="Postman">
+      </a>
+      <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1114532677#gid=1114532677">
+        <img src="https://img.shields.io/badge/Bug_Reports-🐛-white?style=for-the-badge&labelColor=EA4335" alt="Bugs">
+      </a>
+      <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1423420844#gid=1423420844">
+        <img src="https://img.shields.io/badge/DevTools-🛠-white?style=for-the-badge&labelColor=4D4D4D" alt="DevTools">
+      </a>
+    </td>
+  </tr>
+</table>
+
+#### 🎯 Ключевые достижения в проекте:
+* **Анализ рисков:** Выделил критические модули (авторизация, корзина, оплата) для приоритетного тестирования.
+* **Глубокая проверка:** Протестировал API-эндпоинты и подтвердил корректность записи заказов в БД через SQL.
+* **Качество отчетов:** Оформил баг-репорты с четкими шагами воспроизведения и прикрепленными логами из DevTools.
