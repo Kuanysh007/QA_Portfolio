@@ -88,40 +88,42 @@
 
 <br>
 
+<br>
+
 ## 🚀 Портфолио проектов
 
 ### 📂 Проект №1: Комплексный аудит e-commerce платформы Demoblaze.com
-> **Статус:** Завершен (Full Cycle QA)  
-> **Описание:** Это мой основной кейс, в котором я реализовал полный цикл тестирования: от разработки стратегии и анализа требований до финальной верификации данных в базе данных.
+> **Статус:** Завершен (Full Cycle QA)
 
 <table border="0">
   <tr>
+    <td width="350">
+      <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1903080034#gid=1903080034"><img src="https://img.shields.io/badge/Тест--план-📝-white?style=for-the-badge&labelColor=34A853"></a>
+      <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1569426916#gid=1569426916"><img src="https://img.shields.io/badge/Чек--листы-📋-white?style=for-the-badge&labelColor=4285F4"></a>
+      <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1422030096#gid=1422030096"><img src="https://img.shields.io/badge/Тест--кейсы-🧪-white?style=for-the-badge&labelColor=FBBC05"></a>
+    </td>
     <td>
-      <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1903080034#gid=1903080034">
-        <img src="https://img.shields.io/badge/Тест--план-📝-white?style=for-the-badge&labelColor=34A853" alt="Test Plan">
-      </a>
-      <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1569426916#gid=1569426916">
-        <img src="https://img.shields.io/badge/Чек--листы-📋-white?style=for-the-badge&labelColor=4285F4" alt="Checklists">
-      </a>
-      <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1422030096#gid=1422030096">
-        <img src="https://img.shields.io/badge/Тест--кейсы-🧪-white?style=for-the-badge&labelColor=FBBC05" alt="Test Cases">
-      </a>
+      <b>Тестовая документация:</b> Разработал стратегию тестирования, чек-листы для быстрой проверки и подробные тест-кейсы для критических путей пользователя.
     </td>
   </tr>
+
   <tr>
+    <td width="350">
+      <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1934963380#gid=1934963380"><img src="https://img.shields.io/badge/SQL_Queries-🗄-white?style=for-the-badge&labelColor=336791"></a>
+      <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1273909160#gid=1273909160"><img src="https://img.shields.io/badge/API_Testing-🚀-white?style=for-the-badge&labelColor=FF6C37"></a>
+    </td>
     <td>
-      <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1934963380#gid=1934963380">
-        <img src="https://img.shields.io/badge/SQL_Queries-🗄-white?style=for-the-badge&labelColor=336791" alt="SQL">
-      </a>
-      <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1273909160#gid=1273909160">
-        <img src="https://img.shields.io/badge/API_Testing-🚀-white?style=for-the-badge&labelColor=FF6C37" alt="Postman">
-      </a>
-      <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1114532677#gid=1114532677">
-        <img src="https://img.shields.io/badge/Bug_Reports-🐛-white?style=for-the-badge&labelColor=EA4335" alt="Bugs">
-      </a>
-      <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1423420844#gid=1423420844">
-        <img src="https://img.shields.io/badge/DevTools-🛠-white?style=for-the-badge&labelColor=4D4D4D" alt="DevTools">
-      </a>
+      <b>Бэкенд и БД:</b> Проверил API эндпоинты через Postman и подтвердил корректность сохранения данных в базе через SQL-запросы.
+    </td>
+  </tr>
+
+  <tr>
+    <td width="350">
+      <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1114532677#gid=1114532677"><img src="https://img.shields.io/badge/Bug_Reports-🐛-white?style=for-the-badge&labelColor=EA4335"></a>
+      <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1423420844#gid=1423420844"><img src="https://img.shields.io/badge/DevTools-🛠-white?style=for-the-badge&labelColor=4D4D4D"></a>
+    </td>
+    <td>
+      <b>Дефекты:</b> Зафиксировал найденные баги с логами из DevTools и четкими шагами воспроизведения для разработчиков.
     </td>
   </tr>
 </table>
