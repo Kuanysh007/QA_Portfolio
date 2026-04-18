@@ -103,6 +103,11 @@
 * **Глубокая проверка:** Протестировал API-эндпоинты и подтвердил корректность записи заказов в БД через SQL.
 * **Качество отчетов:** Оформил баг-репорты с четкими шагами воспроизведения и прикрепленными логами из DevTools.
 
-* ### 📫 Как со мной связаться:
-[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](твой_linkedin) [ ![Telegram](https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white) ](твой_телеграм)
+
+
+
+### 📫 Как со мной связаться:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/твой_профиль) 
+[![Telegram](https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_ник) 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/77071234567)
 
