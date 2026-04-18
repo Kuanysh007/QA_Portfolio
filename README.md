@@ -119,7 +119,8 @@
   <details>
     <summary>🖼 <b>SQL: Работа в pgAdmin (3 скрина)</b></summary>
     <p align="center">
-      <img src="ССЫЛКА_1" width="400" alt="Запрос 1">
+      <img src="<img width="1440" height="900" alt="Screenshot 2026-04-18 at 12 41 01" src="https://github.com/user-attachments/assets/50de9c47-321b-4b4f-95bd-0394261efabd" />
+" width="400" alt="Запрос 1">
       <img src="ССЫЛКА_2" width="400" alt="Запрос 2">
       <img src="ССЫЛКА_3" width="400" alt="Результат">
     </p>
