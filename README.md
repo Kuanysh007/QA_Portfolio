@@ -180,7 +180,7 @@
       <a href="https://docs.google.com/spreadsheets/d/1wf_uwOdXIz7_rmqYj1K3nB0sG9IRKouH/edit?usp=share_link"><img src="https://img.shields.io/badge/Тест--кейсы-🧪-white?style=for-the-badge&labelColor=FBBC05"></a>
     </td>
     <td>
-      <b>Тестовая документация:</b> Разработал стратегию тестирования, чек-листы и подробные тест-кейсы для критических путей пользователя.
+      <b>Тестовая документация:</b> Разработал стратегию, чек-листы и подробные тест-кейсы для проекта.
     </td>
   </tr>
 
@@ -193,12 +193,11 @@
       <b>Бэкенд и БД:</b> Проверил API и подтвердил корректность данных через SQL.
       <br><br>
       <details>
-        <summary>🖼 <b>Смотреть скриншоты (SQL / Postman)</b></summary>
+        <summary>🖼 <b>Смотреть SQL/Postman</b></summary>
         <p align="center">
+          <img src="https://github.com/user-attachments/assets/7d054293-94ba-47f3-84b8-adf62fec4f42" width="90%">
           <br>
-          <img src="https://github.com/user-attachments/assets/7d054293-94ba-47f3-84b8-adf62fec4f42" width="90%" alt="SQL Result">
-          <br>
-          <img src="ССЫЛКА_НА_ПОСТМАН" width="90%" alt="Postman Result">
+          <img src="ССЫЛКА_НА_ПОСТМАН" width="90%">
         </p>
       </details>
     </td>
@@ -207,18 +206,30 @@
   <tr>
     <td width="350" valign="top">
       <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1114532677"><img src="https://img.shields.io/badge/Bug_Reports-🐛-white?style=for-the-badge&labelColor=EA4335"></a>
+    </td>
+    <td>
+      <b>Баг-репорты:</b> Оформил дефекты с четкими шагами воспроизведения и ожидаемым результатом.
+      <br><br>
+      <details>
+        <summary>🖼 <b>Смотреть пример баг-репорта</b></summary>
+        <p align="center">
+          <img src="ССЫЛКА_НА_БАГ_РЕПОРТ" width="90%">
+        </p>
+      </details>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="350" valign="top">
       <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1423420844"><img src="https://img.shields.io/badge/DevTools-🛠-white?style=for-the-badge&labelColor=4D4D4D"></a>
     </td>
     <td>
-      <b>Дефекты и логи:</b> Зафиксировал найденные баги и проанализировал ошибки в консоли разработчика.
+      <b>DevTools:</b> Использовал консоль и вкладку Network для захвата логов и анализа ошибок.
       <br><br>
       <details>
-        <summary>🖼 <b>Смотреть скриншоты (Bugs / DevTools)</b></summary>
+        <summary>🖼 <b>Смотреть логи DevTools</b></summary>
         <p align="center">
-          <br>
-          <img src="ССЫЛКА_НА_БАГ_РЕПОРТ" width="90%" alt="Bug Report">
-          <br>
-          <img src="ССЫЛКА_НА_DEVTOOLS" width="90%" alt="DevTools Console">
+          <img src="ССЫЛКА_НА_DEVTOOLS" width="90%">
         </p>
       </details>
     </td>
@@ -226,6 +237,8 @@
 </table>
 
 ---
+
+
 
 
 
