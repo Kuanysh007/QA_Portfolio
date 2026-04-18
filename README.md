@@ -60,6 +60,15 @@
       <b>Автоматизация и Окружение:</b> Использую основы <b>JavaScript</b> для создания скриптов и автотестов. Понимаю принципы контейнеризации через <b>Docker</b> и уверенно работаю с <b>Git</b> для контроля версий.
     </td>
   </tr>
+
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" alt="Zsh/Terminal" />
+    </td>
+    <td>
+      <b>Terminal & CLI (Zsh):</b> Уверенно работаю с терминалом <b>macOS (Zsh)</b>. Использую командную строку для управления проектами, работы с <b>Git</b>, навигации по файловой системе и запуска инструментов автоматизации (Node.js, Playwright).
+    </td>
+  </tr>
   
 <tr>
     <td align="center" width="100">
