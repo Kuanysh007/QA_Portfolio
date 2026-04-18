@@ -197,26 +197,26 @@
   
 <tr>
     <td width="350" valign="top">
-      <a href="https://github.com/Kuanysh007/QA_Portfolio/blob/main/Demoblaze.spec.js">
-        <img src="https://img.shields.io/badge/View_Code-💻-blue?style=for-the-badge">
+      <a href="https://github.com/Kuanysh007/QA_Portfolio">
+        <img src="https://img.shields.io/badge/View_Project_Code-💻-blue?style=for-the-badge">
       </a>
       <br><br>
-      <a href="ВСТАВЬ_СЮДА_ТВОЮ_ССЫЛКУ_НА_GOOGLE_SHEETS">
+      <a href="ТВОЯ_ССЫЛКА_НА_GOOGLE_SHEETS">
         <img src="https://img.shields.io/badge/Test_Report-📊-green?style=for-the-badge">
       </a>
     </td>
     <td>
-      <b>UI Automation (Playwright):</b> Реализовал автоматизацию критического пути пользователя.
-      <br>• <b>GitHub:</b> Весь код автотестов с использованием Page Object Model.
-      <br>• <b>Google Sheets:</b> Подробный отчет о прохождении тестов и шаги.
+      <b>UI Automation Project (Playwright):</b> Реализовал полноценный проект автоматизации с использованием <b>Page Object Model (POM)</b>.
+      <br>• <b>Structure:</b> Код разбит на логические слои (тесты и описание страниц) для удобной поддержки.
+      <br>• <b>Tools:</b> Playwright, Node.js, JavaScript.
       <br><br>
       <details>
-        <summary>🖼 <b>Смотреть результат выполнения</b></summary>
+        <summary>🖼 <b>Смотреть структуру проекта</b></summary>
         <p align="center">
           <br>
           <img src="https://github.com/user-attachments/assets/7d054293-94ba-47f3-84b8-adf62fec4f42" width="100%">
           <br>
-          <i>Логи успешного запуска тестов</i>
+          <i>Пример того, как организованы файлы в моем проекте</i>
         </p>
       </details>
     </td>
