@@ -179,7 +179,6 @@
 </table>
 
 
-
 <tr>
     <td width="350">
       <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1934963380#gid=1934963380"><img src="https://img.shields.io/badge/SQL_Queries-🗄-white?style=for-the-badge&labelColor=336791"></a>
@@ -189,13 +188,16 @@
       <b>Бэкенд и БД:</b> Проверил API эндпоинты через Postman и подтвердил корректность данных через SQL-запросы.
       <br><br>
       <details>
-        <summary>🖼 <b>Смотреть скриншот работы в PostgreSQL</b></summary>
+        <summary>🖼 <b>Смотреть скриншоты (SQL / Postman)</b></summary>
         <p align="center">
           <br>
-          <img src="https://github.com/user-attachments/assets/7d054293-94ba-47f3-84b8-adf62fec4f42" width="100%" alt="SQL Proof">
+          <img src="https://github.com/user-attachments/assets/7d054293-94ba-47f3-84b8-adf62fec4f42" width="100%" alt="SQL Result">
           <br>
-          <i>Результат верификации данных в базе PostgreSQL</i>
+          <i>Пример выполнения запроса в PostgreSQL</i>
         </p>
       </details>
     </td>
   </tr>
+
+
+
