@@ -216,14 +216,14 @@
   </tr>
 </table>
 
-### 📂 Проект №2: Тестирование Fullstack-приложения в Docker (Backend & DB)
-> **Статус:** В процессе (Infrastructure & API Testing)
+### 📂 Проект №2: Тестирование Fullstack-приложения в Git + Docker (Backend and Data Base)
+> **Статус:** В процессе (Infrastructure and API Testing)
 
 <table border="0">
   <tr>
     <td width="350" valign="top">
       <a href="https://github.com/Kuanysh007/QA_Portfolio/tree/main/docker-api-project">
-        <img src="https://img.shields.io/badge/Git_&_Docker-🛠-blue?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Git_and_Docker-🛠-blue?style=for-the-badge">
       </a>
       <br><br>
       <a href="ССЫЛКА_НА_ТЕСТ_ПЛАН"><img src="https://img.shields.io/badge/Test_Plan-📝-white?style=for-the-badge&labelColor=34A853"></a>
