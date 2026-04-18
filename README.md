@@ -161,7 +161,7 @@
 
   <tr>
     <td width="350" valign="top">
-      <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1114532677"><img src="https://img.shields.io/badge/Bug_Reports-🐛-white?style=for-the-badge&labelColor=EA4335"></a>
+      <a href="https://docs.google.com/spreadsheets/d/1fRMAqGMjV_kQUVKG0BEb6YKcnqNKScXG/edit?usp=share_link&ouid=117945946105893616242&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Bug_Reports-🐛-white?style=for-the-badge&labelColor=EA4335"></a>
     </td>
     <td>
       <b>Баг-репорты:</b> Оформил дефекты с четкими шагами воспроизведения в Google Sheets.
