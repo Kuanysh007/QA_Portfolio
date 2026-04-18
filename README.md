@@ -60,58 +60,7 @@
 
 ---
 
-## 🚀 Портфолио проектов
 
-### 📂 Проект №1: Комплексный аудит e-commerce платформы Demoblaze.com
-> **Статус:** Завершен (Full Cycle QA)
-
-<table border="0">
-  <tr>
-    <td width="350">
-      <a href="https://docs.google.com/spreadsheets/d/1NMageeMm3RffhYqb5jmZ0QeHY7e40qb1/edit?usp=share_link&ouid=117945946105893616242&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Тест--план-📝-white?style=for-the-badge&labelColor=34A853"></a>
-      <a href="https://docs.google.com/spreadsheets/d/1rutwbbsXC4IE1rOlU-zuwAEb_8VeE6nC/edit?usp=share_link&ouid=117945946105893616242&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Чек--листы-📋-white?style=for-the-badge&labelColor=4285F4"></a>
-      <a href="https://docs.google.com/spreadsheets/d/1wf_uwOdXIz7_rmqYj1K3nB0sG9IRKouH/edit?usp=share_link&ouid=117945946105893616242&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Тест--кейсы-🧪-white?style=for-the-badge&labelColor=FBBC05"></a>
-    </td>
-    <td>
-      <b>Тестовая документация:</b> Разработал стратегию тестирования, чек-листы для быстрой проверки и подробные тест-кейсы для критических путей пользователя.
-    </td>
-  </tr>
-
-  <tr>
-    <td width="350">
-      <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1934963380#gid=1934963380"><img src="https://img.shields.io/badge/SQL_Queries-🗄-white?style=for-the-badge&labelColor=336791"></a>
-      <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1273909160#gid=1273909160"><img src="https://img.shields.io/badge/API_Testing-🚀-white?style=for-the-badge&labelColor=FF6C37"></a>
-    </td>
-    <td>
-      <b>Бэкенд и БД:</b> Проверил API эндпоинты через Postman и подтвердил корректность сохранения данных в базе через SQL-запросы.
-    </td>
-  </tr>
-
-  <tr>
-    <td width="350">
-      <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1114532677#gid=1114532677"><img src="https://img.shields.io/badge/Bug_Reports-🐛-white?style=for-the-badge&labelColor=EA4335"></a>
-      <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1423420844#gid=1423420844"><img src="https://img.shields.io/badge/DevTools-🛠-white?style=for-the-badge&labelColor=4D4D4D"></a>
-    </td>
-    <td>
-      <b>Дефекты:</b> Зафиксировал найденные баги с логами из DevTools и четкими шагами воспроизведения для разработчиков.
-    </td>
-  </tr>
-</table>
-
-#### 🎯 Ключевые достижения в проекте:
-* **Анализ рисков:** Выделил критические модули (авторизация, корзина, оплата) для приоритетного тестирования.
-* **Глубокая проверка:** Протестировал API-эндпоинты и подтвердил корректность записи заказов в БД через SQL.
-* **Качество отчетов:** Оформил баг-репорты с четкими шагами воспроизведения и прикрепленными логами из DevTools.
-
-
-
-
-### 📫 Как со мной связаться:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/твой_профиль) 
-[![Telegram](https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_ник) 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/77071234567)
-
-<br>
 
 <br>
 
@@ -189,7 +138,15 @@
 
 ---
 
+#### 🎯 Ключевые достижения в проекте:
+* **Анализ рисков:** Выделил критические модули (авторизация, корзина, оплата) для приоритетного тестирования.
+* **Глубокая проверка:** Протестировал API-эндпоинты и подтвердил корректность записи заказов в БД через SQL.
+* **Качество отчетов:** Оформил баг-репорты с четкими шагами воспроизведения и прикрепленными логами из DevTools.
 
+* ### 📫 Как со мной связаться:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/твой_профиль) 
+[![Telegram](https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_ник) 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/77071234567)
 
 
 
