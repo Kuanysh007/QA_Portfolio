@@ -151,10 +151,10 @@
       <a href="https://docs.google.com/spreadsheets/d/1CEsB3gP7RiFDLM5j1p6DbLIrOQB01YO3/edit?usp=share_link&ouid=117945946105893616242&rtpof=true&sd=true"><img src="https://img.shields.io/badge/API_Testing-🚀-white?style=for-the-badge&labelColor=FF6C37"></a>
     </td>
     <td>
-      <b>Бэкенд и БД:</b> Проверил API и подтвердил корректность данных через SQL.
+      <b>Бэкенд и БД:</b> Проверил API и подтвердил корректность данных через Google sheets SQL.
       <br><br>
       <details>
-        <summary>🖼 <b>Смотреть скриншоты (SQL / Postman)</b></summary>
+        <summary>🖼 <b>Смотреть скриншоты Postman</b></summary>
         <p align="center">
           <br>
           <img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/ba2067e9-7482-4bac-997d-f436423193b1" />
