@@ -168,13 +168,12 @@
   <tr>
     <td width="350" valign="top">
       <a href="https://docs.google.com/spreadsheets/d/1fRMAqGMjV_kQUVKG0BEb6YKcnqNKScXG/edit?usp=share_link&ouid=117945946105893616242&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Bug_Reports-🐛-white?style=for-the-badge&labelColor=EA4335"></a>
-      <a href="ССЫЛКА_НА_БАГ_РЕПОРТЫ"><img src="https://img.shields.io/badge/Bug_Reports_Link_Jira-🐛-white?style=for-the-badge&labelColor=EA4335"></a>
     </td>
     <td>
       <b>Баг-репорты:</b> Оформил дефекты с четкими шагами воспроизведения в Google Sheets.
       <br><br>
       <details>
-        <summary>🖼 <b>Смотреть пример баг-репорта</b></summary>
+        <summary>🖼 <b>Смотреть фото баг-репорта через Jira </b></summary>
         <p align="center">
           <br>
           <img src="ВСТАВЬ_СЮДА_ССЫЛКУ_НА_ФОТО_БАГ_РЕПОРТА" width="100%">
