@@ -238,6 +238,7 @@
     <td width="350" valign="top">
       <a href="ССЫЛКА_НА_ТЕСТ_КЕЙСЫ"><img src="https://img.shields.io/badge/Test_Cases-🧪-white?style=for-the-badge&labelColor=FBBC05"></a>
       <a href="ССЫЛКА_НА_БАГ_РЕПОРТЫ"><img src="https://img.shields.io/badge/Bug_Reports-🐛-white?style=for-the-badge&labelColor=EA4335"></a>
+      <a href="ССЫЛКА_НА_БАГ_РЕПОРТЫ"><img src="https://img.shields.io/badge/Bug_Reports-🐛-white?style=for-the-badge&labelColor=EA4335"></a>
     </td>
     <td>
       <b>Тест-дизайн и Артефакты:</b>
