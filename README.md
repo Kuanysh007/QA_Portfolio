@@ -70,6 +70,15 @@
     </td>
   </tr>
 
+<tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VS Code" />
+    </td>
+    <td>
+      <b>Среда разработки (IDE):</b> Основной инструмент — <b>VS Code</b>. Использую его для написания базовых автотестов на <b>Playwright</b>, работы с терминалом, отладки кода и управления расширениями для контроля качества.
+    </td>
+  </tr>
+  
   <tr>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" alt="Zsh/Terminal" />
