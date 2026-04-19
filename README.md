@@ -176,7 +176,7 @@
         <summary>🖼 <b>Смотреть фото баг-репорта через Jira </b></summary>
         <p align="center">
           <br>
-            <img src="Screenshot 2026-04-19 at 19.53.17.png" width="100%">
+           "<img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/50793a33-f35c-49d0-b519-fc07fb60274a" width="100%">
             <img src="ВСТАВЬ_СЮДА_ССЫЛКУ_НА_ФОТО_БАГ_РЕПОРТА" width="100%">
             <img src="ВСТАВЬ_СЮДА_ССЫЛКУ_НА_ФОТО_БАГ_РЕПОРТА" width="100%">
         </p>
