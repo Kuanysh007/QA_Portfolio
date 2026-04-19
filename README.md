@@ -96,15 +96,6 @@
       <b>QA Automation (Basics):</b> Имею базовые навыки автоматизации тестирования на <b>Node.js</b> с использованием фреймворка <b>Playwright</b>. Умею писать простые автотесты (E2E), работать с локаторами и запускать тесты через терминал. 
     </td>
   </tr>
-
-  <tr>
-    <td align="center" width="100">
-      <img src="https://img.shields.io/badge/-iOS_Testing-000000?style=flat&logo=apple&logoColor=white" width="80" alt="iOS Testing" />
-    </td>
-    <td>
-      <b>iOS Testing:</b> Тестирую нативные и гибридные приложения на реальных устройствах Apple. Использую <b>Console.app</b> (macOS) для чтения системных логов, проверяю специфические мобильные сценарии: работу при прерываниях (звонки, пуши), жесты (3D Touch/Haptic), и корректность UI под разные разрешения экранов.
-    </td>
-  </tr>
   
   <tr>
     <td align="center" width="100">
