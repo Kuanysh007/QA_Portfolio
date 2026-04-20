@@ -182,7 +182,7 @@
         <summary>🖼 <b>Смотреть работу с DevTools (скриншоты)</b></summary>
         <p align="center">
           <br>
-          <img src="ССЫЛКА_НА_ТВОЕ_ФОТО_DEVTOOLS" width="100%">
+          <img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/f0851c2b-8643-404c-8c5a-f1753fa80bb2" />
         </p>
       </details>
     </td>
