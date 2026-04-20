@@ -304,7 +304,7 @@
   ### 🚀 [Тестирование API в Postman - Stepik (Verify)](https://stepik.org/cert/3145621)
   > Работа с REST API: создание коллекций, написание тестов на JS, работа с переменными окружения.
   
-  <img src="[stepik-certificate-120679-62eb8b4.pdf](https://github.com/user-attachments/files/26907044/stepik-certificate-120679-62eb8b4.pdf)" width="650" alt="Postman API Testing Certificate"/>
+  <img src="./postman_cert.png" width="650" alt="Postman API Testing Certificate"/>
 
 </details>
 
