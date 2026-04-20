@@ -226,7 +226,6 @@
           <img width="992" height="795" alt="Image" src="https://github.com/user-attachments/assets/3d3ad34e-6208-48d6-9d36-b21639c53853" />
           <img width="1295" height="720" alt="Image" src="https://github.com/user-attachments/assets/8730047e-cf5a-48e2-9b7e-35178617c55c" />
           <img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/94149b8d-4393-4b4d-8001-5ab5f3c8757b" />
-          https://github.com/user-attachments/assets/b445d0bd-3784-4090-9b9f-939e8b51156d
           <br>
           <i>Структура файлов проекта и логи выполнения</i>
         </p>
