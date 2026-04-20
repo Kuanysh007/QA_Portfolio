@@ -1,0 +1,35 @@
+// Переходим на Рабочий стол
+
+cd ~/Desktop
+
+// Создаем папку проекта
+
+mkdir my-playwright-test
+
+// Заходим в созданную папку
+
+cd my-playwright-test
+
+// Открываем папку в VS Code
+
+code .
+
+// Создаем файл настроек (package.json)
+
+npm init -y
+
+// Устанавливаем сам Playwright и типы для Node.js:
+
+npm install -D @playwright/test @types/node
+
+// Устанавливаем браузеры (Chromium, Firefox, Webkit)
+
+npx playwright install
+
+//  Папка page: В ней создай файл LoginPage.js. Скопируй туда свой class LoginPage.
+Папка tests: В ней создай файл demoblaze.spec.js. Скопируй туда свой основной тест.
+Корень папки: Создай файл playwright.config.js. Скопируй туда свой длинный конфиг.
+
+//  Запуск 
+
+npx playwright test --project=chromium --headed
