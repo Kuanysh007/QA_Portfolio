@@ -218,7 +218,9 @@
         <summary>🖼 <b>Смотреть структуру и логи</b></summary>
         <p align="center">
           <br>
-          <img src="ССЫЛКА_НА_ТВОЙ_СКРИНШОТ_ИЗ_GITHUB_ISSUES" width="100%">
+          <img width="569" height="371" alt="Image" src="https://github.com/user-attachments/assets/4a906668-cd65-4329-9e5d-3cd0b317e805" />
+          <img width="992" height="795" alt="Image" src="https://github.com/user-attachments/assets/3d3ad34e-6208-48d6-9d36-b21639c53853" />
+          <img width="1295" height="720" alt="Image" src="https://github.com/user-attachments/assets/8730047e-cf5a-48e2-9b7e-35178617c55c" />
           <br>
           <i>Структура файлов проекта и логи выполнения</i>
         </p>
