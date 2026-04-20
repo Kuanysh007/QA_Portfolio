@@ -298,21 +298,6 @@
 ## 🎓 Сертификаты и обучение
 
 <details>
-  <summary>Нажми, чтобы посмотреть мои сертификаты</summary>
-  
-  ### 📝 SQL Certification
-  ![SQL Certificate](./certificates/SQL_Certificate.jpg)
-  
-  ### 🌍 English B1 (Intermediate)
-  ![English Certificate](./certificates/English_B1.jpg)
-  
-</details>
-
----
-
-## 🎓 Сертификаты / Certifications
-
-<details>
   <summary><b>Нажми, чтобы посмотреть сертификаты (Postman API Testing)</b></summary>
   <br>
   
@@ -322,8 +307,6 @@
   <img src="https://stepik.org/cert/3145621.png?id=3145621" width="650" alt="Postman API Testing Certificate"/>
 
 </details>
-
----
 
 ---
 
