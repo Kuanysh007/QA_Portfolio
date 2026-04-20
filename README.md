@@ -295,33 +295,6 @@
 
 ---
 
-## 🛠 Skills & Tools / Навыки и инструменты
-
----
-
----
-
-## 🛠 Skills & Tools / Навыки и инструменты
-
-### 🧪 Testing Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=playwright,postman,js,postgres" />
-</p>
-
-### 🔧 Инструменты и технологии
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
-### 🌍 Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/English-B1-blue?style=flat-square&logo=googletranslate&logoColor=white" height="28"/> 
-  <img src="https://img.shields.io/badge/Russian-Native-red?style=flat-square" height="28"/> 
-  <img src="https://img.shields.io/badge/Kazakh-Native-skyblue?style=flat-square" height="28"/>
-</p>
-
----
-
 ### 📫 Как со мной связаться:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuanysh-oshakbayuly) 
 [![Telegram](https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kuanysh_Osh) 
