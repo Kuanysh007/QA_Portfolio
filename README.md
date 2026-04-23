@@ -234,41 +234,6 @@
   </tr>
 </table>
 
-### 🤖 Автоматизация и CI/CD Pipeline (GitHub Actions)
-> **Статус:** Active ✅
-
-Для всех автотестов в этом репозитории настроен автоматический запуск (Continuous Integration). Это гарантирует, что любой новый код проверяется мгновенно.
-
-<table border="0">
-  <tr>
-    <td width="350" valign="top">
-      <img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
-      <br><br>
-      <img src="https://img.shields.io/badge/Playwright_Tests-Passing-success?style=for-the-badge&logo=playwright&logoColor=white">
-    </td>
-    <td>
-      <b>Настройка пайплайна:</b>
-      <br>• <b>Trigger:</b> Автоматический запуск при <code>push</code> или <code>pull request</code>.
-      <br>• <b>Environment:</b> Тесты прогоняются в контейнере <code>ubuntu-latest</code>.
-      <br>• <b>Reporting:</b> Формирование отчетов после каждого прогона.
-      <br><br>
-      <details>
-        <summary>🖼 <b>Посмотреть логи и результаты запусков</b></summary>
-        <p align="center">
-          <br>
-          <img src="./actions-detailed.png" width="100%">
-          <br>
-          <i>Лог выполнения всех шагов (от установки окружения до запуска тестов)</i>
-          <br><br>
-          <img src="./actions-overview.png" width="100%">
-          <br>
-          <i>История успешных билдов в репозитории</i>
-        </p>
-      </details>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ### 🎯 Ключевые достижения в первом проекте:
