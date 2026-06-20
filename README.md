@@ -377,7 +377,7 @@
 <br>
 
 * 🚀 **Postman Academy** — **API Testing Path (v12)** 
-(Выдан: 17 июня 2026 г.) — [Смотреть сертификат в Google Drive](https://drive.google.com/file/d/14B1SQx0hl3fh6EB4Eej8NzZ5c_NZKq3g/view?usp=share_link)
+(Выдан: 17 июня 2026 г.) — [Смотреть сертификат](https://drive.google.com/file/d/14B1SQx0hl3fh6EB4Eej8NzZ5c_NZKq3g/view?usp=share_link)
   
   <details>
     <summary>🖼️ <b>Смотреть сертификат (Изображение)</b></summary>
