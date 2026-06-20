@@ -245,7 +245,7 @@
   <details>
     <summary>⚙️ <b>Смотреть логи и шаги сборки (GitHub Actions)</b></summary>
     <p align="left">
-      <br>
+      <br> 
       🔗 <a href="https://github.com/Kuanysh007/QA_Portfolio/actions/runs/25002532726/job/73216327583" target="_blank"><b>Открыть этот запуск и подробные логи выполнения на GitHub Actions</b></a>
     </p>
   </details>
