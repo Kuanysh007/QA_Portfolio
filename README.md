@@ -358,6 +358,20 @@
 
 ---
 
+## 📜 Сертификаты и обучение
+* 🚀 **Postman Academy** — **API Testing Path (v12)** 
+  (Выдан: 17 июня 2026 г.) — [Посмотреть верификацию сертификата](https://verify.skilljar.com/c/3i7n6kf65ncd)
+  
+  <details>
+    <summary>🖼️ <b>Смотреть сертификат (Изображение)</b></summary>
+    <p align="left">
+      <br>
+      <img src="https://verify.skilljar.com/c/3i7n6kf65ncd" width="600" alt="Postman Academy Certificate" />
+    </p>
+  </details>
+
+---
+
 ## 📫 Contact Me / Связь со мной
 
 <p align="left">
