@@ -370,7 +370,7 @@
     <p align="left">
       <br>
       <!-- Загрузи сюда скриншот этого документа точно так же, как делал с Postman -->
-      <img src="ССЫЛКА_НА_СКРИНШОТ_ДОКУМЕНТА_TEST_IO" width="700" alt="Test IO Certificate of Employment" />
+      <img width="539" height="699" alt="Image" src="https://github.com/user-attachments/assets/9f1519f4-231a-4ee2-89cc-be719a17b0e3" />
     </p>
   </details>
 
