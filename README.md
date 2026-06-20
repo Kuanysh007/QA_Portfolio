@@ -254,6 +254,7 @@
 </td>
 
 ![Playwright Tests CI](https://github.com/Kuanysh007/QA_Portfolio/actions/workflows/playwright.yml/badge.svg)
+
 ---
 
 ### 🎯 Ключевые достижения в первом проекте:
