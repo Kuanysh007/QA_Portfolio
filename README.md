@@ -1,6 +1,6 @@
 <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=Kuanysh007&color=blue&style=flat-square" alt="Views" />
-</p>      
+</p>       
  
 # Привет! Я Куаныш 👋 
 ### QA Engineer | Магистр технических наук  
