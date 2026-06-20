@@ -363,10 +363,10 @@
   (Выдан: 17 июня 2026 г.) — [Посмотреть верификацию сертификата](https://verify.skilljar.com/c/3i7n6kf65ncd)
   
   <details>
-    <summary>📄 <b>Открыть/Скачать сертификат в формате PDF</b></summary>
+    <summary>🖼️ <b>Смотреть сертификат (Изображение)</b></summary>
     <p align="left">
       <br>
-      • 📁 <a href="https://github.com/user-attachments/files/29163956/certificate-3i7n6kf65ncd-1781726803.pdf" target="_blank"><b>Нажмите здесь, чтобы открыть или скачать сертификат (PDF)</b></a>
+      <img width="966" height="711" alt="Image" src="https://github.com/user-attachments/assets/37091103-3942-4214-a620-48f3ad32a729" />
     </p>
   </details>
 
