@@ -340,6 +340,7 @@
           <br>
           <!-- Когда загрузишь скриншот ранера в репозиторий, замени ССЫЛКА_НА_КАРТИНКУ на реальный путь -->
           <img width="1180" height="814" alt="Image" src="https://github.com/user-attachments/assets/3114189d-3da6-4487-ba11-d99d71e770b8" />" />
+          <img width="1380" height="767" alt="Image" src="https://github.com/user-attachments/assets/5cb8669c-dd88-4143-9298-e44c8dbf8802" />
           <br>
           <i>Результаты успешного прогона коллекции автотестов в Postman</i>
         </p>
