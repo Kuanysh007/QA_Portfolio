@@ -310,7 +310,6 @@
         <img src="https://img.shields.io/badge/Окружение_API-🌍-white?style=for-the-badge&labelColor=4285F4">
       </a>
       <br><br>
-      <img src="https://img.shields.io/badge/Стек-Postman%20%7C%20JS%20%7C%20Chai-orange?style=flat-square">
     </td>
     <td>
       <b>Автоматизированный сквозной (End-to-End) позитивный сценарий:</b>
