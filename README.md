@@ -291,6 +291,10 @@
   
 ---
 
+### 🎯 Ключевые достижения в проекте:
+
+---
+
 ## 📂 Проект №3: Автоматизация API — Swagger Petstore (Раздел Store)
 #### Сценарий автотестов написан на JavaScript и готов к запуску в один клик через Postman Runner
 > **Статус:** Завершен (API Test Automation)
@@ -298,8 +302,12 @@
 <table border="0">
   <tr>
     <td width="350" valign="top">
-      <a href="https://github.com/Kuanysh007/QA_Portfolio/tree/main/Postman_Petstore">
-        <img src="https://img.shields.io/badge/View_Postman_Files-💻-blue?style=for-the-badge">
+      <a href="https://github.com/Kuanysh007/QA_Portfolio/blob/main/Postman_Petstore/Petstore_Store_API.postman_collection.json">
+        <img src="https://img.shields.io/badge/Коллекция_Postman-🚀-white?style=for-the-badge&labelColor=FF6C37">
+      </a>
+      <br>
+      <a href="https://github.com/Kuanysh007/QA_Portfolio/blob/main/Postman_Petstore/Petstore%20Test.postman_environment.json">
+        <img src="https://img.shields.io/badge/Окружение_API-🌍-white?style=for-the-badge&labelColor=4285F4">
       </a>
       <br><br>
       <img src="https://img.shields.io/badge/Стек-Postman%20%7C%20JS%20%7C%20Chai-orange?style=flat-square">
@@ -308,8 +316,19 @@
       <b>Автоматизированный сквозной (End-to-End) позитивный сценарий:</b>
       <br>• <b>CRUD-логика:</b> Создание заказа (POST) ➡️ Получение информации (GET) ➡️ Удаление (DELETE) ➡️ Проверка отсутствия (GET).
       <br>• <b>Динамические переменные:</b> ID созданного заказа автоматически извлекается из JSON-ответа, сохраняется в глобальные переменные и передается по цепочке в следующие запросы.
-      <br>• <b>Окружение:</b> Конфигурация (базовый URL, токены авторизации) изолирована в файлы окружения (Environments). Auths настроен на уровне родительской папки.
+      <br>• <b>Окружение:</b> Конфигурация (базовый URL, токены авторизации) изолирована в файлы окружения (Environments). Auth настроен на уровне родительской папки.
       <br>• <b>Полноценные автотесты:</b> Написаны скрипты проверки статус-кодов (200 OK, 404 Not Found), валидации типов данных (number, boolean) и точечной сверки бизнес-полей.
+      <br><br>
+      <details>
+        <summary>🖼 <b>Смотреть результаты запусков автотестов (Runner)</b></summary>
+        <p align="center">
+          <br>
+          <!-- Когда загрузишь скриншот ранера в репозиторий, замени ССЫЛКА_НА_КАРТИНКУ на реальный путь -->
+          <img width="1440" height="900" alt="Postman Runner Results" src="ССЫЛКА_НА_КАРТИНКУ" />
+          <br>
+          <i>Результаты успешного прогона коллекции автотестов в Postman</i>
+        </p>
+      </details>
     </td>
   </tr>
 </table>
@@ -320,9 +339,6 @@
 * **Стабильность тестов:** Оптимизировал проверки производительности (Response Time), исключив ложные падения из-за сетевых задержек сервера.
 * **Автоматизация эстафеты данных:** Избавился от ручного копирования ID из запроса в запрос за счет скриптов автоматического обновления переменных.
 * **Покрытие логики:** Написал комплексные проверки на соответствие типов данных, защищающие интеграцию фронтенда с бэкендом.
-
----
-### 🎯 Ключевые достижения в проекте:
 
 ---
 
