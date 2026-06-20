@@ -308,7 +308,7 @@
 
 ---
 
-### 📂 Проект №2: Тестирование Fullstack-приложения в Git + Docker (Backend and Data Base)
+### 📂 Проект №3: Тестирование Fullstack-приложения в Git + Docker (Backend and Data Base)
 > **Статус:** В процессе (Infrastructure and API Testing)
 
 <table border="0">
