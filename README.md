@@ -243,12 +243,17 @@
   <br>• <b>Интеграция CI/CD:</b> Настроен автоматический конвейер (пайплайн) в <b>GitHub Actions</b>. Тесты автоматически разворачиваются в изолированном контейнере и запускаются при каждом пуше (push) изменений в ветку `master`.
   <br><br>
   <details>
-    <summary>⚙️ <b>Смотреть работу CI/CD пайплайна (GitHub Actions)</b></summary>
+    <summary>⚙️ <b>Смотреть логи и шаги сборки (GitHub Actions)</b></summary>
     <p align="center">
       <br>
-      <img width="100%" alt="GitHub Actions Playwright CI" src="https://github.com/Kuanysh007/QA_Portfolio/blob/main/Screenshot%202026-06-20%20at%2018.55.58.jpg?raw=true" />
+      <!-- Ссылка вокруг картинки ведет прямо на конкретный запуск и логи -->
+      <a href="https://github.com/Kuanysh007/QA_Portfolio/actions/runs/25002532726/job/73216327583" target="_blank">
+        <img width="100%" alt="GitHub Actions Playwright Job Logs" src="https://github.com/Kuanysh007/QA_Portfolio/blob/main/Screenshot%202026-06-20%20at%2018.55.58.jpg?raw=true" />
+      </a>
       <br>
-      <i>Успешные автоматические запуски тестов на Playwright в GitHub Actions пайплайне</i>
+      <a href="https://github.com/Kuanysh007/QA_Portfolio/actions/runs/25002532726/job/73216327583" target="_blank">
+        <b>🔗 Открыть этот запуск и подробные логи выполнения на GitHub Actions</b>
+      </a>
     </p>
   </details>
 </td>
