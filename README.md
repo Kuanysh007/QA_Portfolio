@@ -351,7 +351,7 @@
         </p>
       </details>
     </td>
-  </tr>
+  </tr> 
 </table>
   
 ---
