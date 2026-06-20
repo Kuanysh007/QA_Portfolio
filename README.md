@@ -238,6 +238,25 @@
 
 ---
 
+<td>
+  <b>UI Automation Project (Playwright):</b> Автоматизация сценариев Регистрации и Логина на платформе Demoblaze.
+  <br>• <b>Архитектура:</b> Использован паттерн <b>Page Object Model (POM)</b> для разделения логики тестов и изолирования элементов страницы.
+  <br>• <b>Стек:</b> Playwright, Node.js, JavaScript, GitHub Actions.
+  <br>• <b>Интеграция CI/CD:</b> Настроен автоматический конвейер (пайплайн) в <b>GitHub Actions</b>. Тесты автоматически разворачиваются в изолированном контейнере и запускаются при каждом пуше (push) изменений в ветку `master`.
+  <br><br>
+  <details>
+    <summary>⚙️ <b>Смотреть работу CI/CD пайплайна (GitHub Actions)</b></summary>
+    <p align="center">
+      <br>
+      <img width="100%" alt="GitHub Actions Playwright CI" src="https://github.com/Kuanysh007/QA_Portfolio/blob/main/Screenshot%202026-06-20%20at%2018.55.58.jpg?raw=true" />
+      <br>
+      <i>Успешные автоматические запуски тестов на Playwright в GitHub Actions пайплайне</i>
+    </p>
+  </details>
+</td>
+
+---
+
 ### 🎯 Ключевые достижения в первом проекте:
 * Приоритизация: Сфокусировался на проверке критических функций: авторизация, корзина и процесс оформления заказа.
 * Тестирование API: С помощью Postman проверил работу запросов (GET, POST), валидируя ответы сервера.
