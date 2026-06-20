@@ -242,11 +242,15 @@
   <br>• <b>Стек:</b> Playwright, Node.js, JavaScript, GitHub Actions.
   <br>• <b>Интеграция CI/CD:</b> Настроен автоматический конвейер в <b>GitHub Actions</b>. Тесты запускаются в изолированном контейнере при каждом пуше в ветку `master`.
   <br><br>
+  
   <b>📋 История успешных запусков и логи сборки в CI/CD:</b>
+  
   <br>• 🚀 <a href="https://github.com/Kuanysh007/QA_Portfolio/actions/runs/25002532726/job/73216327583" target="_blank"><b>Запуск #4: Настройка POM и CI/CD (Последний)</b></a>
   <br>• 🔗 <a href="https://github.com/Kuanysh007/QA_Portfolio/actions/runs/24847366254/job/72738085518" target="_blank">Запуск #3: Добавление профессионального описания</a>
   <br>• 🔗 <a href="https://github.com/Kuanysh007/QA_Portfolio/actions/runs/24846808087/job/72736046481" target="_blank">Запуск #2: Обновление package.json со скриптами</a>
 </td>
+
+---
 
 ![Playwright Tests CI](https://github.com/Kuanysh007/QA_Portfolio/actions/workflows/playwright.yml/badge.svg)
 
