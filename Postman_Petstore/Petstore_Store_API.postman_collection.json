@@ -1,0 +1,271 @@
+{
+  "info": {
+    "_postman_id": "647f5802-2ff2-47e7-b626-d9dcfb15dc7a",
+    "name": "Petstore Store API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "45827804",
+    "_collection_link": "https://go.postman.co/collection/45827804-647f5802-2ff2-47e7-b626-d9dcfb15dc7a?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "Store",
+      "item": [
+        {
+          "name": "Find all of orders",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "https://petstore.swagger.io/v2/store/inventory",
+              "protocol": "https",
+              "host": [
+                "petstore",
+                "swagger",
+                "io"
+              ],
+              "path": [
+                "v2",
+                "store",
+                "inventory"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Create one of the order",
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "exec": [
+                  "// 1. Проверяем, что сервер ответил успешно",
+                  "",
+                  "pm.test(\"Status code is 200\", function () {",
+                  "    pm.response.to.have.status(200);",
+                  "});",
+                  "",
+                  "// 2. Парсим JSON из ответа сервера",
+                  "",
+                  "var jsonData = pm.response.json();",
+                  "",
+                  "// 3. Берем ID из ответа и сохраняем его в глобальную переменную \"my_order_id\"",
+                  "",
+                  "pm.globals.set(\"my_order_id\", jsonData.id);",
+                  "",
+                  "// 4. Тест: проверяем, что статус заказа пришел именно \"placed\"",
+                  "pm.test(\"Статус заказа равен 'placed'\", function () {",
+                  "    pm.expect(jsonData.status).to.eql(\"placed\");",
+                  "});",
+                  "",
+                  "// 5. Тест: проверяем тип данных (что id заказа — это строго число, а не текст)",
+                  "pm.test(\"ID заказа является числом\", function () {",
+                  "    pm.expect(jsonData.id).to.be.a('number');",
+                  "});",
+                  "",
+                  "// 6. Тест: проверяем, что поле complete — это логический тип (boolean)",
+                  "pm.test(\"Поле complete возвращает true/false\", function () {",
+                  "    pm.expect(jsonData.complete).to.be.a('boolean');",
+                  "});"
+                ],
+                "type": "text/javascript",
+                "packages": {},
+                "requests": {}
+              }
+            }
+          ],
+          "request": {
+            "method": "POST",
+            "header": [],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"id\": {{$randomInt}},\n  \"petId\": 10,\n  \"quantity\": 1,\n  \"shipDate\": \"2026-06-20T07:07:48.675Z\",\n  \"status\": \"placed\",\n  \"complete\": true\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "{{base_url}}/store/order",
+              "host": [
+                "{{base_url}}"
+              ],
+              "path": [
+                "store",
+                "order"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Verify after Post query",
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "exec": [
+                  "// 1. Проверяем, что сервер вообще ответил успешно (200 OK)",
+                  "pm.test(\"Статус-код ответа равен 200\", function () {",
+                  "    pm.response.to.have.status(200);",
+                  "});",
+                  "",
+                  "// 2. Парсим JSON-ответ, чтобы прочитать его поля",
+                  "var jsonData = pm.response.json();",
+                  "",
+                  "// 3. Тест на проверку ID: сравниваем значение из ответа с тем, что лежит в глобальной переменной",
+                  "pm.test(\"В ответе вернулся именно наш созданный ID заказа\", function () {",
+                  "    // pm.globals.get вытаскивает сохраненный ранее ID",
+                  "    var expectedId = pm.globals.get(\"my_order_id\");",
+                  "    ",
+                  "    // Сравниваем ID из JSON с ожидаемым ID",
+                  "    pm.expect(jsonData.id).to.eql(Number(expectedId)); ",
+                  "});",
+                  "",
+                  "// 4. Тест на скорость работы: сервер должен отвечать быстро (например, быстрее 500 миллисекунд)",
+                  "pm.test(\"Время ответа сервера меньше 500мс\", function () {",
+                  "    pm.expect(pm.response.responseTime).to.be.below(\"1000\");",
+                  "});"
+                ],
+                "type": "text/javascript",
+                "packages": {},
+                "requests": {}
+              }
+            }
+          ],
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/store/order/{{my_order_id}}",
+              "host": [
+                "{{base_url}}"
+              ],
+              "path": [
+                "store",
+                "order",
+                "{{my_order_id}}"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Delete query",
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "exec": [
+                  "// 1. Проверяем, что удаление прошло успешно",
+                  "pm.test(\"Успешно удалено\", function () {",
+                  "    pm.response.to.have.status(200);",
+                  "});",
+                  "",
+                  "// 2. Стираем глобальную переменную, так как этот заказ больше не существует",
+                  "//pm.globals.unset(\"my_order_id\");"
+                ],
+                "type": "text/javascript",
+                "packages": {},
+                "requests": {}
+              }
+            }
+          ],
+          "request": {
+            "method": "DELETE",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/store/order/{{my_order_id}}",
+              "host": [
+                "{{base_url}}"
+              ],
+              "path": [
+                "store",
+                "order",
+                "{{my_order_id}}"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Verify after the delete",
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "exec": [
+                  "pm.test(\"После удаления заказ не найден - статус 404\", function () {",
+                  "    pm.response.to.have.status(404);",
+                  "});",
+                  "",
+                  "// Переменная стирается только ПОСЛЕ того, как мы проверили 404 ошибку",
+                  "pm.globals.unset(\"my_order_id\");"
+                ],
+                "type": "text/javascript",
+                "packages": {},
+                "requests": {}
+              }
+            }
+          ],
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/store/order/{{my_order_id}}",
+              "host": [
+                "{{base_url}}"
+              ],
+              "path": [
+                "store",
+                "order",
+                "{{my_order_id}}"
+              ]
+            }
+          },
+          "response": []
+        }
+      ],
+      "auth": {
+        "type": "apikey",
+        "apikey": [
+          {
+            "key": "value",
+            "value": "{{my_token}}",
+            "type": "string"
+          },
+          {
+            "key": "key",
+            "value": "api_key",
+            "type": "string"
+          }
+        ]
+      },
+      "event": [
+        {
+          "listen": "prerequest",
+          "script": {
+            "type": "text/javascript",
+            "packages": {},
+            "requests": {},
+            "exec": [
+              ""
+            ]
+          }
+        },
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "packages": {},
+            "requests": {},
+            "exec": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
