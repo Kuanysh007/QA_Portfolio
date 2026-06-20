@@ -295,7 +295,7 @@
 
 ---
 
-## 📂 Проект №3: Автоматизация API — Swagger Petstore (Раздел Store)
+### 📂 Проект №3: Автоматизация API с помощью инструмента Postman - Swagger Petstore (Раздел Store)
 #### Сценарий автотестов написан на JavaScript и готов к запуску в один клик через Postman Runner
 > **Статус:** Завершен (API Test Automation)
 
