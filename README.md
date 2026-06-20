@@ -366,7 +366,7 @@
     <summary>🖼️ <b>Смотреть сертификат (Изображение)</b></summary>
     <p align="left">
       <br>
-      <img src="https://verify.skilljar.com/c/3i7n6kf65ncd" width="600" alt="Postman Academy Certificate" />
+      [certificate-3i7n6kf65ncd-1781726803.pdf](https://github.com/user-attachments/files/29163956/certificate-3i7n6kf65ncd-1781726803.pdf)
     </p>
   </details>
 
