@@ -244,16 +244,9 @@
   <br><br>
   <details>
     <summary>⚙️ <b>Смотреть логи и шаги сборки (GitHub Actions)</b></summary>
-    <p align="center">
+    <p align="left">
       <br>
-      <!-- Ссылка вокруг картинки ведет прямо на конкретный запуск и логи -->
-      <a href="https://github.com/Kuanysh007/QA_Portfolio/actions/runs/25002532726/job/73216327583" target="_blank">
-        <img width="100%" alt="GitHub Actions Playwright Job Logs" src="https://github.com/Kuanysh007/QA_Portfolio/blob/main/Screenshot%202026-06-20%20at%2018.55.58.jpg?raw=true" />
-      </a>
-      <br>
-      <a href="https://github.com/Kuanysh007/QA_Portfolio/actions/runs/25002532726/job/73216327583" target="_blank">
-        <b>🔗 Открыть этот запуск и подробные логи выполнения на GitHub Actions</b>
-      </a>
+      🔗 <a href="https://github.com/Kuanysh007/QA_Portfolio/actions/runs/25002532726/job/73216327583" target="_blank"><b>Открыть этот запуск и подробные логи выполнения на GitHub Actions</b></a>
     </p>
   </details>
 </td>
