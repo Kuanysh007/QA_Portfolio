@@ -115,8 +115,6 @@
 #### Все иконки интерактивны и ведут на Google Sheets. Выберите нужный артефакт для детального ознакомления с проектом
 > **Статус:** Завершен (Full Cycle QA)
 
-![Playwright Tests CI](https://github.com/Kuanysh007/QA_Portfolio/actions/workflows/playwright.yml/badge.svg)
-
 <table border="0">
   <tr>
     <td width="350" valign="top">
@@ -255,6 +253,7 @@
   </details>
 </td>
 
+![Playwright Tests CI](https://github.com/Kuanysh007/QA_Portfolio/actions/workflows/playwright.yml/badge.svg)
 ---
 
 ### 🎯 Ключевые достижения в первом проекте:
